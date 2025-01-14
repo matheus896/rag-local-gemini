@@ -1,0 +1,9 @@
+numpy
+pandas
+tqdm
+google-genai
+Pillow
+ratelimit
+PyMuPDF
+python-dotenv
+streamlit
